@@ -1,5 +1,5 @@
 ## envmic
-under linux / unix with shellscript and ffmpeg a virtual microphone for streaming audios
+... is a virtual microphone for streaming audios under linux / unix with shellscript and ffmpeg 
 
 
 ## Control (when your ./start.sh was successful)
