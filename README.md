@@ -18,7 +18,7 @@ go in the new dir:
 `cd ~/bin`
 
 download the script:
-`git clone https://github.com/k33la1n0/linuxgc`
+`git clone https://github.com/k33la1n0/ebvnic`
 
 go in the downloade dir:
 `cd envmic`
