@@ -24,7 +24,7 @@ go in the downloade dir:
 `cd envmic`
 
 give the install-script execute-right (x):
-`sudo chmod +x install.sh`
+`sudo chmod +x start.sh envmic.sh`
 
 START: `./start.sh`
 
