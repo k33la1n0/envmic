@@ -1,5 +1,5 @@
 #/bin/bash
-SOURCE="/dev/video5"
+SOURCE="/tmp/virtmic"
 echo "----------------------------------------"
 echo "!Please select your audio from the list!"
 echo "----------------------------------------"
